@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Table</title>
+</head>
+<body >
+    <table>
+        <thead>
+            <tr>
+              <th>קוד</th>
+                <th>שם</th>
+                <th>משפחה</th>
+                <th>טלפון</th>
+                <th>אימייל</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let i of users">  
+              <td>{{i.idUser}}</td>
+                <td>{{i.firstName}}</td>
+                <td>{{i.lastName}}</td>
+                <td>{{i.phoneNumber}}</td>
+                <td>{{i.email}}</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

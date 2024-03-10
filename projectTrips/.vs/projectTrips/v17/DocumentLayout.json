@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\models\\organizedtripscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\organizedtripscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\functions\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\functions\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\functions\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\functions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\functions\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\functions\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\models\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\webapi\\controllers\\orderplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\orderplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\interfaces\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E63B48-0A7B-48F2-8FFB-E22E875D8038}|DTO\\DTO.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dto\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E63B48-0A7B-48F2-8FFB-E22E875D8038}|DTO\\DTO.csproj|solutionrelative:dto\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\models\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E63B48-0A7B-48F2-8FFB-E22E875D8038}|DTO\\DTO.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dto\\classes\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E63B48-0A7B-48F2-8FFB-E22E875D8038}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\thetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\functions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\functions\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\webapi\\controllers\\thetripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\thetripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\webapi\\controllers\\typestripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\typestripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\bll\\interfaces\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41DD3D-19FC-428B-A2BC-EB9B7C749FD1}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\dal\\interfaces\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFE12EE-8413-4E9C-8D4A-E68AEAC25F5C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\typestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|d:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projecttrips\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735C9CD1-3813-4D25-B398-A75CD6F2DB6A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 988,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\TheTrip.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\TheTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\TheTrip.cs",
+              "RelativeToolTip": "BLL\\Functions\\TheTrip.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T10:25:55.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TheTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\TheTrip.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\TheTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\TheTrip.cs",
+              "RelativeToolTip": "DAL\\Models\\TheTrip.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T10:21:39.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TheTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DTO\\classes\\TheTrip.cs",
+              "RelativeDocumentMoniker": "DTO\\classes\\TheTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DTO\\classes\\TheTrip.cs",
+              "RelativeToolTip": "DTO\\classes\\TheTrip.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T10:21:02.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderPlaceController.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\OrderPlaceController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrderPlaceController.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\OrderPlaceController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrderPlaceController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T20:35:01.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderPlace.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\OrderPlace.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\OrderPlace.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\OrderPlace.cs",
+              "RelativeToolTip": "DAL\\Functions\\OrderPlace.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAnwCIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T20:45:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T18:58:17.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Interfaces\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\User.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Interfaces\\User.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T18:56:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TheTripeController.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\TheTripeController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TheTripeController.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\TheTripeController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TheTripeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T14:12:06.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mapper.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DTO\\mapper.cs",
+              "RelativeDocumentMoniker": "DTO\\mapper.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DTO\\mapper.cs",
+              "RelativeToolTip": "DTO\\mapper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:20:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizedTripsContext.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\OrganizedTripsContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\OrganizedTripsContext.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\OrganizedTripsContext.cs",
+              "RelativeToolTip": "DAL\\Models\\OrganizedTripsContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:15:47.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderPlace.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Interfaces\\OrderPlace.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\OrderPlace.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Interfaces\\OrderPlace.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\OrderPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:08:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TheTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\TheTrip.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\TheTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\TheTrip.cs",
+              "RelativeToolTip": "DAL\\Functions\\TheTrip.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T10:18:27.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Icontext.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Icontext.cs",
+              "RelativeDocumentMoniker": "DAL\\Icontext.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Icontext.cs",
+              "RelativeToolTip": "DAL\\Icontext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:04:42.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "BLL\\ValidationHelper.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\ValidationHelper.cs",
+              "RelativeToolTip": "BLL\\ValidationHelper.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:02:27.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPlace.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\OrderPlace.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\OrderPlace.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Models\\OrderPlace.cs",
+              "RelativeToolTip": "DAL\\Models\\OrderPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T19:42:51.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderPlace.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\OrderPlace.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\OrderPlace.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\OrderPlace.cs",
+              "RelativeToolTip": "BLL\\Functions\\OrderPlace.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAKgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T18:39:46.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Interfaces\\User.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\User.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Interfaces\\User.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T21:01:32.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\User.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\User.cs",
+              "RelativeToolTip": "DAL\\Functions\\User.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAjwEgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T20:54:10.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T21:12:51.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\User.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\User.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\User.cs",
+              "RelativeToolTip": "BLL\\Functions\\User.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T21:12:34.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TypesTripController.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\TypesTripController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TypesTripController.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Controllers\\TypesTripController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TypesTripController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T16:36:57.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TypesTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Interfaces\\TypesTrip.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\TypesTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Interfaces\\TypesTrip.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\TypesTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T16:36:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TypesTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Interfaces\\TypesTrip.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\TypesTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Interfaces\\TypesTrip.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\TypesTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T16:36:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypesTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\TypesTrip.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\TypesTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\DAL\\Functions\\TypesTrip.cs",
+              "RelativeToolTip": "DAL\\Functions\\TypesTrip.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T16:33:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TypesTrip.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\TypesTrip.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\TypesTrip.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\BLL\\Functions\\TypesTrip.cs",
+              "RelativeToolTip": "BLL\\Functions\\TypesTrip.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T16:31:36.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T19:02:48.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApi\\WeatherForecast.cs",
+              "ToolTip": "D:\\hand\\shana b\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projectTrips\\WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T19:02:45.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

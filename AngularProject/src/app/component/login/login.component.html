@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Table</title>
+    <style>
+      body{
+        background-image: url("../../../assets/pic/40.png"); 
+        }
+        b{
+          margin-top: 10%;
+        }
+
+       </style>
+</head>
+<body >
+<div claas="b">
+<mat-form-field class="example-full-width1" >
+    <mat-label>אימייל</mat-label>
+    <input type="email" matInput  
+           placeholder="Ex. pat@example.com" [formControl]="email"  [(ngModel)]="currectUser.email" required  >
+  </mat-form-field>
+  <br>  
+<mat-form-field class="example-full-width">
+   <mat-label>סיסמא</mat-label>
+  <input matInput #postalCode maxlength="10" placeholder="Ex. 94105" value="94043" [formControl]="password"  [(ngModel)]="currectUser.passwordIn">
+  <mat-hint align="end">{{postalCode.value.length}} / 10</mat-hint>
+</mat-form-field> </div>
+<br> 
+    <section>
+          <button mat-raised-button (click)="checkUser()" class="butten">התחברות</button> 
+      </section>
+</body>
+</html>

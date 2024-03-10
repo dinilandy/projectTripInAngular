@@ -1,0 +1,58 @@
+
+<div class="select">
+  <!-- <select (change)="onOptionSelected($event)">
+    <option disabled selected>סוגי טיולים</option>
+    <option value={{0}}>כל הטיולים</option>
+    <option *ngFor="let i of list" value={{i.idType}}>{{i.nameType}}</option>
+  </select> -->
+<mat-select [(ngModel)]="selectedType" (selectionChange)="filterByDate(selectedType)">
+  <mat-option value="0" disabled selected hidden>סנן לפי תאריכים</mat-option>
+  <mat-option  [value]="0">טיולים שעברו</mat-option>
+  <mat-option  [value]="1">טיולים עתידים</mat-option>
+  <mat-option  [value]="2">מחיר</mat-option>
+</mat-select></div><div class="a">
+ <mat-card class="example-card" *ngFor="let i of filterTrips">
+    <mat-card-header>
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title>{{i.targetTripe}}</mat-card-title>
+      <mat-card-subtitle>{{i.nameType}}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image [src]="'../../../assets/pic/'+i.image+'.png'" alt="Photo of a Shiba Inu" class="pic">
+    <mat-card-content>
+      <p>
+       ₪ {{i.price}} מחיר
+      </p>
+      
+      <p>
+        {{i.date}}
+      </p>
+      <p>
+        {{i.medic}} האם צריך חובש  
+      </p>
+      <p>
+      {{i.numberPlacesAvailable}} מקומות פנויים  
+      </p>
+      <p>
+        {{i.durationTripInHours}} זמו הטיול
+      <p>
+        {{i.leavingTime}} זמו יציאה 
+      </p>
+      <button mat-raised-button (click)="deleteOrder(i.idTrip)">ביטול הזמנה</button>
+    </mat-card-content>
+    <!-- <div *ngIf="open">
+      <form (ngSubmit)="order()">
+          <mat-form-field class="example-full-width">
+              <mat-label>הכנס כמות כרטיסים להזמנה</mat-label>
+              <input matInput [(ngModel)]="numOfPlaces" name="numOfPlaces">
+          </mat-form-field>
+          <br>
+          <input type="submit" value="הזמן<<">
+      </form>
+  </div> -->
+  <!-- <p *ngIf="openErrorPlaces">מצטערים לא נותרו מספיק מקומות פנוים </p>
+  <p *ngIf="openErrorOrder">ההזמנה נכשלה</p> -->
+<!-- <p *ngIf="openSuccesOrder">ההזמנה נקלטה בהצלחה</p> -->
+</mat-card>
+  
+
+</div>

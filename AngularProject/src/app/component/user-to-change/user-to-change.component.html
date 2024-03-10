@@ -1,0 +1,63 @@
+<div class="all">
+    <form class="example-form" (ngSubmit)="change()" #formP="ngForm" [formGroup]="myForm">
+
+      <mat-form-field class="example-full-width"> 
+      <mat-label>הכנס שם פרטי</mat-label>
+      <input matInput type="text"  formControlName="firstName"   [(ngModel)]="Registr.currectUser1.firstName" required >
+    </mat-form-field>
+    <div *ngIf="myFN.invalid && (myFN.touched||myFN.dirty)">
+      <p *ngIf="myFN.hasError('required')">שדה חובה</p>
+      <p *ngIf="myFN.hasError('minlength')">קצר מדי</p>
+      <p *ngIf="myFN.hasError('notvalid')">השם יכול להכיל אותיות בעברית בלבד</p>
+  </div>
+<br>
+    <mat-form-field class="example-full-width"> 
+      <mat-label>הכנס שם משפחה</mat-label>
+      <input matInput type="text"  formControlName="lastName"  [(ngModel)]="Registr.currectUser1.lastName" required>
+    </mat-form-field>
+    <div *ngIf="myLN.invalid && (myLN.touched||myLN.dirty)">
+      <p *ngIf="myLN.hasError('required')">שדה חובה</p>
+      <p *ngIf="myLN.hasError('minlength')">קצר מדי</p>
+      <p *ngIf="myLN.hasError('notvalid')">השם יכול להכיל אותיות בעברית בלבד</p>
+  </div>
+    <br>
+    <mat-form-field class="example-full-width"> 
+      <mat-label>הכנס מספר טלפון</mat-label>
+      <input matInput type="text" formControlName="phone"  [(ngModel)]="Registr.currectUser1.phoneNumber" required >
+    </mat-form-field>
+    <div *ngIf="myPhone.invalid && (myPhone.touched||myPhone.dirty)">
+      <p *ngIf="myPhone.hasError('required')">שדה חובה</p>
+      <p *ngIf="myPhone.hasError('minlength')">מספר לא תקין</p>
+      <p *ngIf="myPhone.hasError('maxlength')">מספר לא תקין</p>
+  </div>
+<br>
+    <mat-form-field class="example-full-width"> 
+      <mat-label>הכנס כתובת איימל</mat-label>
+      <input matInput type="email" formControlName="email"   [(ngModel)]="Registr.currectUser1.email" required>
+    </mat-form-field>
+    <div *ngIf="myMail.invalid && (myMail.touched||myMail.dirty)">
+      <p *ngIf="myMail.hasError('required')">שדה חובה</p>
+      <p *ngIf="myMail.hasError('notvalid')">כתובת מייל שגויה</p>
+  </div>
+<br>
+    <mat-form-field class="example-full-width"> 
+      <mat-label>הכנס סיסמא</mat-label>
+      <input matInput type="text"  formControlName="password"  [(ngModel)]="Registr.currectUser1.passwordIn" required >
+    </mat-form-field>
+    <div *ngIf="myPass.invalid && (myPass.touched||myPass.dirty)">
+      <p *ngIf="myPass.hasError('required')">שדה חובה</p>
+    </div>
+<br>   
+<br>
+<div class="mb-3">
+  <div class="form-check">
+      <input class="form-check-input" type="checkbox" id="disabledFieldsetCheck"
+          formControlName="firstAiderCtificate"[(ngModel)]="Registr.currectUser1.firstAidCertificate">
+      <label class="form-check-label" for="disabledFieldsetCheck">
+          תעודת עזרה ראשונה
+      </label>
+  </div>
+<div>
+<button mat-raised-button (click)="change()"  class="butten" >בצע</button>
+<!-- </div></form> -->
+<button mat-raised-button (click)="deleteUser()"  class="butten" >הסרה</button> 

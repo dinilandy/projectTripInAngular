@@ -1,0 +1,25 @@
+
+<div class="a">
+    <ul class="nav nav-justified">
+        <li class="nav-item">
+          <a class="nav-link " href="#"routerLink="./AllTrip">כל הטיולים</a>
+        </li>
+        <li class="nav-item" *ngIf="!(UserS.isManager)">
+          <a class="nav-link " href="#"routerLink="./Registration">הרשמה</a>
+        </li>
+        <li class="nav-item" >
+            <a class="nav-link" href="#"routerLink="./Login">התחברות </a>
+          </li>
+          <li class="nav-item" *ngIf="UserS.isManager">
+            <a class="nav-link" href="#"routerLink="./AllUsers"> המשתמשים</a>
+          </li>
+          <div [hidden] >
+          <li class="nav-item" *ngIf="UserS.currectUser1.firstName!=null &&!(UserS.isManager)">
+            <a class="nav-link" href="#" routerLink="./Myuser" >אזור אישי</a>
+          </li>
+          <li class="nav-item" *ngIf="UserS.currectUser1.idUser!=0" >{{UserS.currectUser1.firstName}} {{UserS.currectUser1.lastName}}</li>
+        </div>
+      </ul><br>
+    </div>
+<router-outlet></router-outlet>
+

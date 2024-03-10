@@ -1,0 +1,48 @@
+<div class="b">
+<mat-card class="example-card" >
+    <mat-card-header>
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title>{{trip.targetTripe}}</mat-card-title>
+      <mat-card-subtitle>{{trip.nameType}}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image [src]="'../../../assets/pic/'+trip.image+'.png'" alt="Photo of a Shiba Inu" class="pic">
+    <mat-card-content>
+      <p>
+       ₪ {{trip.price}} מחיר
+      </p>
+      <p>
+        {{trip.date}}
+      </p>
+      <p>
+        {{trip.medic}} האם צריך חובש  
+      </p>
+      <p>
+      {{trip.numberPlacesAvailable}} מקומות פנויים  
+      </p>
+      <p>
+        {{trip.durationTripInHours}} זמו הטיול 
+      </p>
+      <p>
+        {{trip.leavingTime}} זמו יציאה 
+      </p>
+      <button mat-raised-button (click)="openOrder()">הזמנת מקומות</button>
+
+
+    </mat-card-content></mat-card>
+    <div class="a" *ngIf="open">
+      <form (ngSubmit)="order()">
+          <mat-form-field class="example-full-width">
+              <mat-label>הכנס כמות כרטיסים להזמנה</mat-label>
+              <input matInput [(ngModel)]="numOfPlaces" name="numOfPlaces">
+          </mat-form-field>
+          <br>
+          <input type="submit" value="הזמן">
+      </form>
+  </div>
+  <p *ngIf="openErrorPlaces">מצטערים לא נותרו מספיק מקומות פנוים </p>
+  <p *ngIf="openErrorOrder">ההזמנה נכשלה</p>
+<p *ngIf="openSuccesOrder">ההזמנה נקלטה בהצלחה</p>
+
+  
+
+</div>

@@ -1,0 +1,44 @@
+.card-wrapper {
+    
+    max-width: 320px;
+    min-width: 220px;
+}
+.pic{
+    width: 40%;
+    height: auto;
+    margin-left: 20%;
+}
+
+.example-card
+{
+    width: 70%;
+    height: 350%;
+    /* display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 1 0 30%;
+    margin: 16px 0;
+    color: black;
+    width: 25%;
+    height: auto; */
+}
+.select{
+    width: 8%;
+    /* background-color: rgb(238, 255, 0); */
+    font-family :Bahnschrift Light;
+    /* font-size: xx-large; */
+}
+.a{
+    
+    display: grid;
+    grid-template-areas:
+    "example-card example-card example-card"
+    "example-card example-card example-card"
+    "example-card example-card example-card"
+    "example-card example-card example-card"
+    "example-card example-card example-card";
+    grid-template-rows: 28% 28% 28% 28% 28%;
+    grid-template-columns:30% 30% 30%;
+    margin: 10%;
+ }

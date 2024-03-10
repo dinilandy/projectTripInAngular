@@ -1,0 +1,56 @@
+/* 1 */
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+margin-left: 500px;;  
+}
+  
+  .example-full-width {
+    width: 100%;
+  } 
+
+/* 2 */
+ 
+  .sample-column {
+    max-width: 550px;
+    text-align: center;
+    margin-left: 30%;
+}
+
+:host {
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 16px;
+}
+
+.igx-radio + .igx-radio {
+    margin-top: 16px;
+}
+
+.igx-select {
+    width: 230px;
+    padding-top: 70px;
+    padding-left: 40px; 
+}
+/* 3 כפתור */
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    color: black;
+}
+
+.button-sample {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 1 0 30%;
+    margin: 16px 0;
+    color: black;
+}
+.a{
+text-align: center;
+margin-left: 30%;
+width: 30%;
+}

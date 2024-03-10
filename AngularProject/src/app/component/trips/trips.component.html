@@ -1,0 +1,24 @@
+<div class="back">
+  
+<select (change)="onOptionSelected($event)">
+  <option disabled selected>סוגי טיולים</option>
+  <option value={{0}}>כל הטיולים</option>
+  <option *ngFor="let i of list" value={{i.idType}}>{{i.nameType}}</option>
+</select>
+<div class="a">
+ <mat-card class="example-card" *ngFor="let item of ListT">
+    <mat-card-header>
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title>{{item.targetTripe}}</mat-card-title>
+      <mat-card-subtitle>{{item.nameType}}</mat-card-subtitle>
+      <mat-card-subtitle>{{item.date}}</mat-card-subtitle>
+      
+     
+    </mat-card-header>
+    <img mat-card-image [src]="'../../../assets/pic/'+item.image+'.png'" alt="Photo of a Shiba Inu" class="pic">
+    <mat-card-actions>
+      <button mat-raised-button *ngIf="user.currectUser1.firstName" (click)="GetDetails(item.idTrip)">לכל הפרטים</button>
+    </mat-card-actions>
+  </mat-card> 
+</div>
+</div>

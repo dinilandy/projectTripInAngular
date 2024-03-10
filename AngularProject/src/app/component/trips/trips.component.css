@@ -1,0 +1,29 @@
+
+.example-card
+{
+    margin: 30px;
+    width: 60%;
+    height: 87%;     
+    margin-left: 40%;
+}
+.a{
+    
+    display: grid;
+    grid-template-areas:
+    "example-card example-card example-card"
+    "example-card example-card example-card"
+    "example-card example-card example-card"
+    "example-card example-card example-card"
+    "example-card example-card example-card";
+    grid-template-rows: 25% 25% 25% 25% 25%;
+    grid-template-columns:30% 30% 30%;
+ }
+ .back{
+    background-image: url("../../../assets/pic/40.png");
+    height: 200%;
+ }
+ .pic{
+    width: 300px;
+    height: 150px;
+ }
+ 

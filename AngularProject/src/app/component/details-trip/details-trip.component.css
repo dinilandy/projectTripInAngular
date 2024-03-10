@@ -1,0 +1,24 @@
+
+.pic{
+    width: 60%;
+    height: 30%;
+    margin-left: 20%;
+}
+
+.example-card
+{
+    margin-left: 30%;
+    width: 35%;
+    height: 30%; 
+    margin-right: 50%;
+    text-align: center;
+}
+.b{
+    display: grid;
+    grid-template-areas:
+    "a example-card";
+   grid-template-rows: 100% 1%;
+    grid-template-columns:70% ;
+    background-image: url("../../../assets/pic/40.png");
+    height: 300%;
+}
